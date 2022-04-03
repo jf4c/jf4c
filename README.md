@@ -26,4 +26,4 @@
     <a href="mailto:julio.f4costa@hotmail.com"><img src="https://img.shields.io/badge/hotmail-%23000000?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"></a>
  </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/jf4c/blob/output/github-contribution-grid-snake.svg)
