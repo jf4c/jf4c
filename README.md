@@ -1,7 +1,10 @@
-### Oi eu sou Júlio
+# Hi👋 I am Júlio Felipe
+___
+-🎓 Sistemas de Informação | FHO
+-📘 Estudando de tudo da TI 
+-🏠 Porto Ferreira - SP 
+-⚪ 20 years old
 
-- 🌱 Estou atualmente na faculdade de Sistemas de Informação 
-- 😄 Pronouns: ele/dele
 <div align="center">
     <a href="https://github.com/jf4c">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jf4c&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
