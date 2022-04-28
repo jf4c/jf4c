@@ -1,5 +1,5 @@
 # Hi👋 I am Júlio Felipe
-___
+
 -🎓 Sistemas de Informação | FHO
 -📘 Estudando de tudo da TI 
 -🏠 Porto Ferreira - SP 
