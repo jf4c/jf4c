@@ -1,9 +1,14 @@
 # Hi👋 I am Júlio Felipe
 
--🎓 Sistemas de Informação | FHO
--📘 Estudando de tudo da TI 
--🏠 Porto Ferreira - SP 
--⚪ 20 years old
+🎓 Sistemas de Informação | FHO
+
+📘 Estudando de tudo da TI
+
+🏠 Porto Ferreira - SP
+
+⚪ 20 years old
+
+---
 
 <div align="center">
     <a href="https://github.com/jf4c">
