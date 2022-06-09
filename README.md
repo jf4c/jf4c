@@ -2,8 +2,6 @@
 
 🎓 Sistemas de Informação | FHO
 
-📘 Estudando de tudo da TI
-
 🏠 Porto Ferreira - SP
 
 ⚪ 20 years old
