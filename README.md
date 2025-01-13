@@ -1,13 +1,17 @@
-# Hi👋 I am Júlio Felipe
-🧑🏼‍💻 backend developer
+# 😎 Hello there👋🏼
 
-🎓 Sistemas de Informação | FHO
+### 😀 About
+- 🧑🏼‍💻 I'm a backend developer currently pursuing a degree in Information Systems at Fundação Hermínio Ometto, with over 2 years of experience in designing and developing robust, scalable, and high-quality systems.
+- 🌎 I'm from Brazil - Porto Ferreira - SP
 
-🏠 Porto Ferreira - SP
+### 💻 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,py,docker,azure,mysql)
 
-⚪ 23 years old
+### 🤝 Contacts
+[![Email](https://img.shields.io/badge/-Email-blue?style=flat&labelColor=white&logo=gmail&logoColor=black&link=julio.f4costa@hotmail.com)](mailto:julio.f4costa@hotmail.com) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-costa-jf4c/)
 
-##
+---
 
 <div>
     <a href="https://github.com/jf4c">
@@ -16,13 +20,6 @@
 </div>
 
 ##
-
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,py,docker,azure,mysql)
-
-<div>   
-    <a href="https://www.linkedin.com/in/julio-costa-jf4c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:julio.f4costa@hotmail.com"><img src="https://img.shields.io/badge/hotmail-%23000000?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"></a>
- </div>
  
 <picture>
   <source
