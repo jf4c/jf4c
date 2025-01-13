@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: jf4c
           outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/snake.svg
