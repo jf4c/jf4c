@@ -1,22 +1,6 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Executa uma vez por dia
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
-        id: snake
-        with:
-          github_user_name: jf4c
-          outputs: dist/snake.svgname: generate animation
-
-on:
   # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
