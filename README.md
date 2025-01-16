@@ -5,7 +5,7 @@
 - 🌎 I'm from Brazil - Porto Ferreira - SP
 
 ### 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,py,docker,azure,mysql)
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,py,html,css,js,react,git,docker,kubernetes,azure,mysql,postgres)
 
 ### 🤝 Contacts
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&labelColor=white&logo=gmail&logoColor=black&link=julio.f4costa@hotmail.com)](mailto:julio.f4costa@hotmail.com) <br/>
